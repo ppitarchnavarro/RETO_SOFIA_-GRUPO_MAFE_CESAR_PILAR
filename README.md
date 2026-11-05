@@ -24,4 +24,4 @@
 --> comentario en vez de # usas //
 
 # ¿Qué parte de la lógica se mantiene igual?
---> El flujo se mantinee y la lógica booleana 
+--> El flujo se mantiene y la lógica booleana 
