@@ -25,3 +25,13 @@
 
 # ¿Qué parte de la lógica se mantiene igual?
 --> El flujo se mantiene y la lógica booleana 
+
+int main() {
+    int edad = 20;
+
+    if (edad >= 18) {
+        printf("Eres mayor de edad");
+    }
+
+    return 0;
+}
